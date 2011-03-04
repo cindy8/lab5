@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  previous_balance: 
+  new_balance: 
+  future_balance: 1
+
+two:
+  previous_balance: 
+  new_balance: 
+  future_balance: 1
